@@ -1,6 +1,6 @@
-# Sistema de Gerenciamento de Contatos em C
+asd# Sistema de Gerenciamento de Contatos em C
 
-# 👨‍💻 Integrantes e Contribuições
+# Integrantes e Contribuições
 
 A seguir estão descritas as responsabilidades e contribuições de cada integrante do grupo durante o desenvolvimento do projeto **Sistema de Gerenciamento de Contatos em C**.
 
@@ -14,7 +14,7 @@ A seguir estão descritas as responsabilidades e contribuições de cada integra
 
 ---
 
-### 📌 Organização do Trabalho em Equipe
+### Organização do Trabalho em Equipe
 
 O desenvolvimento do projeto foi realizado de forma colaborativa, com divisão de responsabilidades entre **desenvolvimento do código, documentação, testes e apresentação**. Essa divisão permitiu que cada integrante contribuísse em uma etapa específica do projeto, garantindo melhor organização e qualidade no resultado final.
 
@@ -109,6 +109,3 @@ gcc main.c contatos.c -o programa.exe
 
 ### Execução
 .\programa.exe
-
-
-
